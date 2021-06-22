@@ -1,7 +1,61 @@
 body {
     font-family: "Exo", sans-serif;
+    background-color: #f8f8f8;
 }
 
 .header-img {
-    max-height: 150px;
+    max-height: 60px;
+}
+
+.text-green {
+    color: #6EB92B;
+}
+
+.bg-green {
+    background-color: #6EB92B;
+}
+
+
+.card {
+    padding: 0.5rem;
+}
+
+header,
+.card {
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #2c3e50;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+a {
+    color: inherit !important;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.card-title {
+    color: #6EB92B;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.card-subtitle,
+.card-text {
+    color: #697070;
+    font-size: 16px;
+    font-weight: 200;
+
+}
+
+button {
+    width: 10rem !important;
+    color: white;
 }
