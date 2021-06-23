@@ -2,4 +2,4 @@
 
 - [x] 1 užduotis
 - [x] 2 užduotis
-- [x] 3 užduotis
+- [ ] 3 užduotis
