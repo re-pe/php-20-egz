@@ -1,4 +1,4 @@
-# VTMC php-20 grupės egzamino užduotis
+# php-20 užduotis
 
 - [x] 1 užduotis
 - [x] 2 užduotis
